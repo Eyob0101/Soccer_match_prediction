@@ -19,6 +19,7 @@ in English premier league Soccer the main goal of the app is to help
 people place the right bet and win. 
 
 ## Demo
+![Alt Text](https://github.com/Eyob0101/Soccer_match_prediction/blob/main/Demo.gif)
 
 
 ## Features
